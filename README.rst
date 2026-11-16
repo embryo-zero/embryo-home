@@ -1,3 +1,13 @@
+.. embryo-brand
+
+===========
+Embryo Home
+===========
+
+**Embryo Home** is Embryo-Zero's fork of `core <https://github.com/home-assistant/core>`_, made by Embryo Zero Backyard Data Center Corporation. Our changes are on the ``embryo`` branch; see EMBRYO.md, LEGAL.md and CHANGES-EMBRYO.md. The original project's README follows unchanged, with its authors' credits.
+
+----
+
 Home Assistant |Chat Status|
 =================================================================================
 
